@@ -1,0 +1,33 @@
+#url: https://hello-rust.show
+#baseurl: /
+
+# Site settings
+title: Hello Rust!
+email: mail@hello-rust.show
+description: "A show about the Rust programming language. Covering beginner and itermediate topics."
+
+# Team names, titles and social links
+people:
+- name: Matthias Endler
+  pic: 1
+  position: Random Rust programmer
+  social:
+    - title: twitter
+      url: https://twitter.com/matthiasendler
+    - title: github
+      url: https://github.com/mre/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: youtube
+    url: https://www.youtube.com/channel/UCZ_EWaQZCZuGGfnuqUoHujw
+  - title: twitter
+    url: https://twitter.com/hellorustshow
+  - title: github
+    url: https://github.com/hello-rust/show/
+  - title: patreon
+    url: https://www.patreon.com/hellorust
+
+# Build settings
+markdown: kramdown
+permalink: pretty
